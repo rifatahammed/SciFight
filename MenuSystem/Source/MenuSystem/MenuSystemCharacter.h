@@ -4,6 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "Interfaces/OnlineSessionInterface.h"
+
 #include "MenuSystemCharacter.generated.h"
 
 UCLASS(config=Game)
